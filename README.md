@@ -1,3 +1,4 @@
 # JSIA-Vision
 Realistic TUFX Profile for KSP
-<img width="1280" height="720" alt="Type 2@2x" src="https://github.com/user-attachments/assets/1f38278d-2f4a-4276-a186-dea5e0a1733e" />
+
+<img width="5760" height="3240" alt="Vision" src="https://github.com/user-attachments/assets/c8c99183-5195-4d47-ade1-ad04522b327b" />
